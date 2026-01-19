@@ -48,4 +48,6 @@ python Source/inference.py ucf11 test_videos/basketball.mp4 Source/models/ucf11_
 
 ## License
 - This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-- If you want to use or contribute this framework, please contact via baodinhtfb@gmail.com
+- Any questions please contact via baodinhtfb@gmail.com
+
+> If you find this project useful, please give it a star ⭐️! Contributions are also welcome.
