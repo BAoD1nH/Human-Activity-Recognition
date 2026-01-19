@@ -3,7 +3,7 @@
 This framework focuses on **Human Activity Recognition (HAR)** problems by using machine learning techniques, fine-tuning based on pretrain model such as ResNet50 and Bi-LSTM in combination. The goal is to create a model that can classify human activities when user feed model videos (in any terms of camera angles, resolution, quality).
 <--video demo shortly-->
 
-*Note: CSC16004 – Computer Vision - Final Project Rework - 22TGMT HCMUS - *
+*Note: CSC16004 – Computer Vision - Final Project Rework - 22TGMT HCMUS* 
 
 ## News
 - 3-12-2025: Add Hugging Face Space for Web Inference demo.
